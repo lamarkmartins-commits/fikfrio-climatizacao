@@ -1029,17 +1029,6 @@ section {
     padding-left: 4px;
 }
 
-footer a {
-  color: inherit;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-footer a:hover {
-    color: var(--accent-light);
-  opacity: 0.8;
-}
-
 .footer-contact p {
     font-size: 14px;
     color: var(--text-muted);
@@ -1063,6 +1052,17 @@ footer a:hover {
 .footer-bottom p {
     font-size: 13px;
     color: var(--text-muted);
+}
+
+footer a {
+  color: inherit;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+footer a:hover {
+    color: var(--accent-light);
+  opacity: 0.8;
 }
 
 /* ---------- LIGHTBOX ---------- */
